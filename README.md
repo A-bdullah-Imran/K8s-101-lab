@@ -244,3 +244,5 @@ Created for students learning Kubernetes fundamentals through hands-on practice.
 ---
 
 Made with ❤️ for Kubernetes learners
+
+**Abdullah Imran**
